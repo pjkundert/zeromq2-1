@@ -72,7 +72,7 @@ namespace zmq
             bool active;
         };
 
-        //  Inbound pipes with the names of corresponging peers.
+        //  Inbound pipes with the names of corresponding peers.
         typedef std::vector <inpipe_t> inpipes_t;
         inpipes_t inpipes;
 
